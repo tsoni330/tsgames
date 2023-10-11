@@ -1,10 +1,10 @@
 # tusharsonigames
 
-A new Flutter application.
+Online Gamblin game with Payment Gateway
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+All the app written in flutter with php backend and firebase with push notification
 
 A few resources to get you started if this is your first Flutter project:
 
