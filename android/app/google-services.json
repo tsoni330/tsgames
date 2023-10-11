@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "67904609843",
+    "firebase_url": "https://tusharsonigames-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tusharsonigames",
+    "storage_bucket": "tusharsonigames.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67904609843:android:0fa58b28e15d4e2f47cd46",
+        "android_client_info": {
+          "package_name": "com.tusharsonigames.tusharsonigames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67904609843-avi1knm2f6gq7n4ibu1ulhoratvahnpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tusharsonigames.tusharsonigames",
+            "certificate_hash": "957a161814008dc1a58522bfeb129b99ecb25bfd"
+          }
+        },
+        {
+          "client_id": "67904609843-nm43ivmd667qvg373knu2n30lu22o6ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj-fYkKfvu-1XBeeMh6IdzzQZetWaqdS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67904609843-nm43ivmd667qvg373knu2n30lu22o6ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
