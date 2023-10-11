@@ -5,11 +5,11 @@ Online Gamblin game with Payment Gateway
 ## Screenshots
 
 <div align="left">
-    <img src="https://github.com/tsoni330/flutter-theme/blob/main/lib/Screenshots/Light%20Theme.jpg" width="200px" height="350px"</img> 
-    <img src="https://github.com/tsoni330/flutter-theme/blob/main/lib/Screenshots/Dark%20Theme.jpg" width="200px" height="350px"</img> 
-    <img src="https://github.com/tsoni330/flutter-theme/blob/main/lib/Screenshots/Light%20Theme.jpg" width="200px" height="350px"</img> 
-    <img src="https://github.com/tsoni330/flutter-theme/blob/main/lib/Screenshots/Dark%20Theme.jpg" width="200px" height="350px"</img> 
-    <img src="https://github.com/tsoni330/flutter-theme/blob/main/lib/Screenshots/Light%20Theme.jpg" width="200px" height="350px"</img> 
+    <img src="https://github.com/tsoni330/tsgames/blob/main/photos/unnamed-6.png" width="200px" height="400px"</img>
+    <img src="https://github.com/tsoni330/tsgames/blob/main/photos/unnamed-7.png" width="200px" height="400px"</img> 
+    <img src="https://github.com/tsoni330/tsgames/blob/main/photos/unnamed-8.png" width="200px" height="400px"</img> 
+    <img src="https://github.com/tsoni330/tsgames/blob/main/photos/unnamed-9.png" width="200px" height="400px"</img> 
+    <img src="https://github.com/tsoni330/tsgames/blob/main/photos/unnamed-10.png" width="200px" height="400px"</img> 
     
 </div>
 
